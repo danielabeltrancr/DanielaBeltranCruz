@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DanielaBeltranCruz
+- 👋 Hi, I’m @DanielaBeltran
 - 👀 I’m interested in continue learning programming languages like C++, C#, Java, Javascript, Python 
 - 🌱 I’m currently learning C++ for embedded systems
 - 💞️ I’m looking to collaborate on ...
